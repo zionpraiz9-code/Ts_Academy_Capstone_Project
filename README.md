@@ -25,7 +25,7 @@
 | Name | Email | GitHub | Role |
 |---|---|---|---|
 | Kolawole Julius Oluwatobi | anthonyjk1204@gmail.com | [GitHub](https://github.com/kjuls) | Active Member |
-| Olaleru Praise Ajibola | zionpraiz9@gmail.com | [GitHub](https://github.com/zionpraiz9-code) | Active Member |
+| **OLALERU PRAISE AJIBOLA** | zionpraiz9@gmail.com | [GitHub](https://github.com/zionpraiz9-code) | Active Member |
 | Adeleye Adekunle Oluwaseun | dequnle7@gmail.com | [GitHub](https://github.com/qunlecrown) | Active Member |
 | Udoh Edidiong Monday | beeeddy22@gmail.com | [GitHub](https://github.com/Edidiong-Udoh2) | Active Member |
 | Ukonu Fortune Chiemela | ukonufortune@gmail.com | [GitHub](https://github.com/Fortuneukonu) | Active Member |
